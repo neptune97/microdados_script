@@ -1,2 +1,2 @@
 # microdados_script
-Scripts para manejo de microdados em R
+Arquivos necessários para transformação de microdado (txt) em csv via R.
